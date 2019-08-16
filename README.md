@@ -52,11 +52,11 @@
 * Data generator - https://mockaroo.com/​
 * Responsive check - http://app.xrespond.com/​
 
-	# Accessibility:
+	Accessibility:
 	* Accessibility guideline - https://accessibility.18f.gov/index.html​
 	* Accessibility resources - https://webaim.org/resources/
 
-	# Learning:
+	Learning:
 	* All dev tutorials - https://devdocs.io​​
 	* Some excellent courses – Udemy and  https://wesbos.com/​
 	* Free snippets - https://freefrontend.com/​
