@@ -1,3 +1,7 @@
+These are "not so popular" but "helper" tools which we can use in day to day life to minimize coding or searching time.​
+
+Though there are plenty of tools available and might be better but I have sorted out some of the best of these, as per my choice, and those ones which are actually useful to speed up the work and reduce searching or mess around time with tools.
+
 ## HTML:
 * HTML code generator - https://webcode.tools/html-generator​
 * HTML symbols/entities - https://www.toptal.com/designers/htmlarrows/symbols/
@@ -39,11 +43,10 @@
 * Online coding or in browser coding – Most popular one is https://codepen.io  and some others are https://jsfiddle.net and  http://liveweave.com​
 * Check browser compatibility - https://caniuse.com/​
 * In browser wireframing - https://app.moqups.com​
-* Page load time – Chrome extension
-* Responsive check - http://app.xrespond.com/
-* Code beautifier - https://beautifier.io/​
-* Color picker - ColorZilla​
-* Page ruler – Chrome Extension
+* Color picker – Chrome Ext. ColorZilla​
+* Page load time – Chrome Ext.  Page load timer 
+* Page ruler – Chrome Ext.  Page ruler
+* Full screen capture – Chrome Ext. Full page screen capture
 
 
 ## Utility:
@@ -52,13 +55,14 @@
 * Data generator - https://mockaroo.com/​
 * Responsive check - http://app.xrespond.com/​
 
-	# Accessibility:
+	**Accessibility**:
 	* Accessibility guideline - https://accessibility.18f.gov/index.html​
 	* Accessibility resources - https://webaim.org/resources/
 
-	# Learning:
+	**Learning**:
 	* All dev tutorials - https://devdocs.io​​
-	* Some excellent courses – Udemy and  https://wesbos.com/​
+	* Some excellent courses – Udemy and  Wesbos
 	* Free snippets - https://freefrontend.com/​
+	* Good articles - Feecodecamp​
 
 
