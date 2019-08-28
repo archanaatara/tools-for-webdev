@@ -43,10 +43,10 @@ Though there are plenty of tools available and might be better but I have sorted
 * Online coding or in browser coding – Most popular one is https://codepen.io  and some others are https://jsfiddle.net and  http://liveweave.com​
 * Check browser compatibility - https://caniuse.com/​
 * In browser wireframing - https://app.moqups.com​
-* Color picker – Chrome Ext. ColorZilla​
-* Page load time – Chrome Ext.  Page load timer 
-* Page ruler – Chrome Ext.  Page ruler
-* Full screen capture – Chrome Ext. Full page screen capture
+* Color picker – ColorZilla​
+* Page load time –  Page load timer 
+* Page ruler – Page ruler​
+* Full screen capture –  Full page screen capture
 
 
 ## Utility:
@@ -55,19 +55,11 @@ Though there are plenty of tools available and might be better but I have sorted
 * Data generator - https://mockaroo.com/​
 * Responsive check - http://app.xrespond.com/​
 
-<<<<<<< HEAD
 	**Accessibility**:
 	* Accessibility guideline - https://accessibility.18f.gov/index.html​
 	* Accessibility resources - https://webaim.org/resources/
 
 	**Learning**:
-=======
-	Accessibility:
-	* Accessibility guideline - https://accessibility.18f.gov/index.html​
-	* Accessibility resources - https://webaim.org/resources/
-
-	Learning:
->>>>>>> 491eeb74df676ce4610c49aa93463515bd888729
 	* All dev tutorials - https://devdocs.io​​
 	* Some excellent courses – Udemy and  Wesbos
 	* Free snippets - https://freefrontend.com/​
