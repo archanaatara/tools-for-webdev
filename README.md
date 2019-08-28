@@ -1,6 +1,6 @@
 These are "not so popular" but "helper" tools which we can use in day to day life to minimize coding or searching time.​
 
-Though there are plenty of tools available and might be better but I have sorted out some of the best of these, as per my choice, and those ones which are actually useful to speed up the work and reduce searching or mess around time with tools.
+Though there are plenty of tools available and might be better but I have sorted out some of the best of these, as per my choice, and those ones which are actually useful to speed up the work and reduce searching or mess around time with various tools.
 
 ## HTML:
 * HTML code generator - https://webcode.tools/html-generator​
