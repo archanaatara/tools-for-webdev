@@ -55,11 +55,19 @@ Though there are plenty of tools available and might be better but I have sorted
 * Data generator - https://mockaroo.com/​
 * Responsive check - http://app.xrespond.com/​
 
+<<<<<<< HEAD
 	**Accessibility**:
 	* Accessibility guideline - https://accessibility.18f.gov/index.html​
 	* Accessibility resources - https://webaim.org/resources/
 
 	**Learning**:
+=======
+	Accessibility:
+	* Accessibility guideline - https://accessibility.18f.gov/index.html​
+	* Accessibility resources - https://webaim.org/resources/
+
+	Learning:
+>>>>>>> 491eeb74df676ce4610c49aa93463515bd888729
 	* All dev tutorials - https://devdocs.io​​
 	* Some excellent courses – Udemy and  Wesbos
 	* Free snippets - https://freefrontend.com/​
