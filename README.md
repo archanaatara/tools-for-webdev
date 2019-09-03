@@ -1,19 +1,19 @@
-These are "not so popular" but "helper" tools which we can use in day to day life to minimize coding or searching time.​
+These are "not so popular" but "helper" tools which we can use in day to day life to minimize coding or searching time during development.​
 
 Though there are plenty of tools available and might be better but I have sorted out some of the best of these, as per my choice, and those ones which are actually useful to speed up the work and reduce searching or mess around time with various tools.
 
 ## HTML:
-* HTML code generator - https://webcode.tools/html-generator​
-* HTML symbols/entities - https://www.toptal.com/designers/htmlarrows/symbols/
-* HTML5 Template starter - https://github.com/iandevlin/html5bones​
-* HTML reference - https://html.spec.whatwg.org/multipage/indices.html#attributes-3​
-* HTML code standards guide - https://codeguide.co/#html​
-* Validate HTML - https://validator.w3.org
+* HTML code generator - [webcode.tools/html-generator](https://webcode.tools/html-generator​)
+* HTML symbols/entities - [toptal.com/designers/htmlarrows/symbols/](https://www.toptal.com/designers/htmlarrows/symbols/)
+* HTML5 Template starter - [github.com/iandevlin/html5bones](https://github.com/iandevlin/html5bones​)
+* HTML reference - [html.spec.whatwg.org/multipage/indices.html](https://html.spec.whatwg.org/multipage/indices.html#attributes-3​)
+* HTML code standards guide - [codeguide.co/#html](https://codeguide.co/#html​)
+* Validate HTML - [validator.w3.org](https://validator.w3.org)
 
 
 ## CSS:
-* CSS3 code generator - https://webcode.tools/css-generator/​
-* CSS entities - https://www.w3schools.com/cssref/css_entities.asp
+* CSS3 code generator - [webcode.tools/css-generator](https://webcode.tools/css-generator/​)
+* CSS entities - [w3schools.com/cssref/css_entities.asp](https://www.w3schools.com/cssref/css_entities.asp)
 * Flexbox grid playground -  https://flexbox.help/
 * CSS media query generator -  http://giona.net/tools/css3-mediaquery-generator/ or https://simplecss.eu/​
 * Create gradients - https://uigradients.com​
