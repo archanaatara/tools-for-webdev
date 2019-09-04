@@ -1,12 +1,12 @@
 These are "not so popular" but "helper" tools which we can use in day to day life to minimize coding or searching time during development.​
 
-Though there are plenty of tools available and might be better but I have sorted out some of the best of these, as per my choice, and those ones which are actually useful to speed up the work and reduce searching or mess around time with various tools.
+Though there are plenty of tools available and might be better but I have sorted out some of the best of these, as per my choice, and those ones which are useful to speed up the work and reduce searching or mess around time with myriad of tools.
 
 ## HTML:
-* HTML code generator - [webcode.tools/html-generator](https://webcode.tools/html-generator​)
+* HTML code generator - [webcode.tools/html-generator](https://webcode.tools/html-generator)
 * HTML symbols/entities - [toptal.com/designers/htmlarrows/symbols/](https://www.toptal.com/designers/htmlarrows/symbols/)
 * HTML5 Template starter - [github.com/iandevlin/html5bones](https://github.com/iandevlin/html5bones)
-* HTML reference - [html.spec.whatwg.org/multipage/indices.html](https://html.spec.whatwg.org/multipage/indices.html#attributes-3​)
+* HTML reference - [html.spec.whatwg.org/multipage/indices.html](https://html.spec.whatwg.org/multipage/indices.html#attributes-3)
 * HTML code standards guide - [codeguide.co/#html](https://codeguide.co/#html)
 * Validate HTML - [validator.w3.org](https://validator.w3.org)
 
@@ -35,7 +35,7 @@ Though there are plenty of tools available and might be better but I have sorted
 ## Images:
 * Free stock images - [pexels.com](https://www.pexels.com/)  and [pixabay.com](https://pixabay.com/)
 * Free stock images with API - [unsplash.com](https://unsplash.com/)
-* Dummy image placeholders - [source.unsplash.com](https://source.unsplash.com/), ​[placeholder.com](https://placeholder.com) and [picsum.photos](https://picsum.photos/​)
+* Dummy image placeholders - [source.unsplash.com](https://source.unsplash.com/), ​[placeholder.com](https://placeholder.com) and [picsum.photos](https://picsum.photos/)
 * Free icons - [iconfinder.com](https://www.iconfinder.com)
 * Group package icons - [flaticon.com](https://www.flaticon.com/)
 * Fun world of emojis - [emojipedia.org](https://emojipedia.org/apple/)
