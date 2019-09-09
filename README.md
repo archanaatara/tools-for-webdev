@@ -20,6 +20,7 @@ Though there are plenty of tools available and might be better but I have sorted
 * Font unit convertor (px to rem) - [pxtorem.com](http://pxtorem.com/)
 * Transpiling/Preprocessor - [sass-lang.com](https://sass-lang.com/)
 * Naming color - [chir.ag/projects/name-that-color](http://chir.ag/projects/name-that-color/)
+* Color details - [htmlcsscolor.com](https://www.htmlcsscolor.com/)
 * Specificity calculator - [specificity.keegan.st](https://specificity.keegan.st/)
 * Responsive check - [app.xrespond.com](http://app.xrespond.com/)
 
@@ -39,6 +40,7 @@ Though there are plenty of tools available and might be better but I have sorted
 * Free icons - [iconfinder.com](https://www.iconfinder.com)
 * Group package icons - [flaticon.com](https://www.flaticon.com/)
 * Fun world of emojis - [emojipedia.org](https://emojipedia.org/apple/)
+* UIKit/Icons - [graphicburger.com](https://graphicburger.com/ui-kits/)
 
 
 ## Browser:
@@ -67,6 +69,9 @@ Though there are plenty of tools available and might be better but I have sorted
 	* All dev tutorials - [devdocs.io](https://devdocs.io​​)
 	* Some excellent courses – [Udemy](https://www.udemy.com/courses/development/) and  [Wesbos](https://wesbos.com/courses/)
 	* Free snippets - [freefrontend.com](https://freefrontend.com/)
+	* CSS snippets - [css.30secondsofcode.org](https://css.30secondsofcode.org/)
 	* Good articles - [FreeCodeCamp​](https://medium.com/@FreeCodeCamp)
+	* Design inspiration - [designspiration.com](https://www.designspiration.com/)
+	* Email design templates - [reallygoodemails.com](https://reallygoodemails.com/)
 
 
